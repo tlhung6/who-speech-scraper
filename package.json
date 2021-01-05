@@ -4,7 +4,7 @@
 	"description": "Scrape the latest speeches from WHO and save into Excel file. ",
 	"main": "index.js",
 	"dependencies": {
-		"axios": "^0.19.2",
+		"axios": "^0.21.1",
 		"cheerio": "^1.0.0-rc.3",
 		"json2csv": "^5.0.0"
 	},
